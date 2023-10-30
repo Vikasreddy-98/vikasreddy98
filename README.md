@@ -19,6 +19,7 @@ I've learned a few things along the way:
 
 
   Feel free to reach out and share your knowledge or project ideas!
-< a href = "https://www.linkedin.com/in/vikas-reddy-7b90751a5/" />
+   <a href="https://www.linkedin.com/in/vikas-reddy-7b90751a5/">
+   </a>
 
 
